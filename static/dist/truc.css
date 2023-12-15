@@ -1,0 +1,19 @@
+#res a {
+    text-decoration: underline;
+}
+
+#res a:hover {
+    color: #C8DAEC;
+}
+
+#res img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#nav {
+    position: sticky;
+}
